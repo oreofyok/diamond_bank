@@ -1,6 +1,7 @@
 from pprint import pprint
 
 #PRINT BOARD IN SIMPLIER WAY
+#comment from origin
 def find_next_empty(puzzle):
     # finds the next row, col on the puzzle that's not filled yet --> rep with -1
     # return row, col tuple (or (None, None) if there is none)
